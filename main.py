@@ -43,7 +43,7 @@ last_groq_md: Optional[str] = None
 # =====================================================
 # Config da API (cuidado ao versionar este arquivo)
 # =====================================================
-GROQ_API_KEY_INLINE = "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"
+GROQ_API_KEY_INLINE = ""
 os.environ["GROQ_API_KEY"] = GROQ_API_KEY_INLINE
 
 # guarda a última previsão feita (preenchida na opção 1)
@@ -676,3 +676,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\nInterrompido pelo usuário.")
         sys.exit(0)
+
