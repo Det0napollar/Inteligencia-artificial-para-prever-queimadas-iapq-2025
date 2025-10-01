@@ -1,0 +1,23 @@
+# Essenciais para ML e ciência de dados
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+shap
+
+# Geoespacial e satélite
+geopandas
+rasterio
+rioxarray
+xarray
+pyproj
+
+# Dados climáticos e sensoriamento remoto
+cdsapi
+sentinelsat
+geemap
+
+# Visualização
+matplotlib
+seaborn
+folium
